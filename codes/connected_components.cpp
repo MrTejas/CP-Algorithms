@@ -32,7 +32,7 @@ int main()
     int n,m;
     cin>>n>>m;
     vector<vll> adj(n);
-    for(int x=0;x<n;x++)
+    for(int x=0;x<m;x++)
     {
         ll a,b;
         cin>>a>>b;
