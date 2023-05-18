@@ -33,7 +33,7 @@ int main()
     cin>>n>>m>>s;
     s--;
     vector<vll> adj(n);
-    for(int x=0;x<n;x++)
+    for(int x=0;x<m;x++)
     {
         ll a,b;
         cin>>a>>b;
